@@ -49,7 +49,7 @@ const ListBookings = ({ bookings }: { bookings: BookingsProps[] }) => {
             {booking.map((element, index) => (
               <div
                 key={index}
-                className="grid grid-cols-1 md:grid-cols-6 gap-4 border-t-2 pt-2 mt-2"
+                className="grid grid-cols-1 md:grid-cols-6 gap-4 border-t-2 pt-2 mt-2 items-center"
               >
                 <p>
                   <span className="md:hidden font-bold">Name: </span>
