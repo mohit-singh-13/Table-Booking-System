@@ -5,7 +5,11 @@
 Design and develop a responsive and user-friendly restaurant table booking system with:
 
 - **Frontend:** Built using Next.js  
-- **Backend:** Powered by Node.js and Express  
+- **Backend:** Powered by Node.js and Express
+
+**IMPORTANT NOTE :** The backend is hosted on a free instance of Render, which spins down after 15 minutes of
+inactivity. This may cause a 40-50 seconds delay when restarting the server, so please expect some delay for first request when visiting website
+for the first time after a period of inactivity.
 
 ## Features
 
@@ -71,8 +75,8 @@ Design and develop a responsive and user-friendly restaurant table booking syste
 
 ### Live Deployment Links
 
-- **Frontend**: Hosted on Vercel
-- **Backend**: Hosted on Render
+- **Frontend**: ms-table-booking-system.vercel.app
+- **Backend**: https://table-booking-system-5rfq.onrender.com
 
 ## Installation & Setup
 
