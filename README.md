@@ -75,7 +75,7 @@ for the first time after a period of inactivity.
 
 ### Live Deployment Links
 
-- **Frontend**: ms-table-booking-system.vercel.app
+- **Frontend**: https://ms-table-booking-system.vercel.app
 - **Backend**: https://table-booking-system-5rfq.onrender.com
 
 ## Installation & Setup
